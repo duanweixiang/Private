@@ -76,8 +76,8 @@ cp /mnt/sdd4t/DWX/LB_transcriptome_RawData_20180905/raw_data/* /mnt/sdd4t/DWX/LB
 ```
 
 * Rename file example:   
-from "LYG\_LB\_25\_3\_ **RRAS03252-V\_** 1.fq.gz" to "LYG\_LB\_25\_3\_1.fq.gz"  
-from "LYG\_LB\_25\_3\_ **RRAS03252-V\_** 2.fq.gz" to "LYG\_LB\_25\_3\_2.fq.gz"
+from "LYG\_LB\_25\_3\_**RRAS03252-V\_** 1.fq.gz" to "LYG\_LB\_25\_3\_1.fq.gz"  
+from "LYG\_LB\_25\_3\_**RRAS03252-V\_** 2.fq.gz" to "LYG\_LB\_25\_3\_2.fq.gz"
 
 ## <span id="1">Step_1: FastQC</span> V  
 * FastQC(Version 0.11.8) is used to assess the quality of NGS data.  
